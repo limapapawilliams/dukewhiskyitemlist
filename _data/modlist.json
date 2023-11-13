@@ -1,1 +1,482 @@
-[]
+[
+  {
+    "author": "Razor 2.3",
+    "name": "Auto-Cut Blight",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "kaitorisenkou",
+    "name": "BallGames",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Orion",
+    "name": "Hospitality",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SirLalaPyon",
+    "name": "Medieval Genepacks",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Expanded - Ideology Patches",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Expanded - Royalty Patches",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Trunken and Sarg Bjornson",
+    "name": "Vanilla Armour Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Nunahur Al-Shamikh",
+    "name": "Medieval Medicines",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kikohi and Oskar Potocki",
+    "name": "Vanilla Base Generation Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sierra",
+    "name": "RimFantasy - Medieval Overhaul Edition",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "DevDesigner",
+    "name": "ↁ House Sanguin",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Evil Eye Guy",
+    "name": "Medieval Overhaul: Royalty",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Evil Eye Guy",
+    "name": "Medieval Overhaul: Toggleable Stuff",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Arisher",
+    "name": "Medievel Tailor",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AobaKuma",
+    "name": "Nothing but just a Royalty Aeroship",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Alan Dariva and Usagirei",
+    "name": "More Planning [1.4]",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sierra",
+    "name": "RimTraits - General Traits",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sierra",
+    "name": "RimTraits - Vanilla Trait Colors",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Trunken and Sarg Bjornson",
+    "name": "Vanilla Weapons Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rooboid",
+    "name": "Roo's HD Royalty Hairstyles",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SoulfulPumpkin",
+    "name": "Tabletop Trove - Additional Joy Objects and Decor",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Imoja",
+    "name": "The Witcher Trials (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "eatKenny and leafzxg，DWs（temporary）",
+    "name": "Turret Collection (Unofficial)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, xrushha and SmashPhil",
+    "name": "Vanilla Apparel Expanded — Accessories",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Legodude17",
+    "name": "Vanilla Backstories Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Taranchuk",
+    "name": "Vanilla Books Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sarg Bjornson, Chowder and Trahspanda",
+    "name": "Vanilla Brewing Expanded - Coffees and Teas",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Cooking Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Cooking Expanded - Stews",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "OskarPotocki, Atlas and Kikohi",
+    "name": "Vanilla Furniture Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Furniture Expanded - Art",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "OskarPotocki, Atlas and Kikohi",
+    "name": "Vanilla Furniture Expanded - Medical Module",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Furniture Expanded - Power",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Trunken",
+    "name": "Vanilla Furniture Expanded - Production",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Furniture Expanded - Props and Decor",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and xrushha",
+    "name": "Vanilla Ideology Expanded - Hats and Rags",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Ideology Expanded - Icons and Symbols",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and legodude17",
+    "name": "Vanilla Ideology Expanded - Relics and Artifacts",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "legodude17 and Oskar Potocki",
+    "name": "Vanilla Outposts Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Plants Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sarg Bjornson and Oskar Potocki",
+    "name": "Vanilla Plants Expanded - More Plants",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Alestria",
+    "name": "Vanilla Plants Expanded - Succulents",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Weapons Expanded - Tribal",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "PlayIgel, SalmonToastie, Alastair, Kayedon and Urlyn",
+    "name": "VFME - Simply Simple Tofu!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Madd_Mugsy",
+    "name": "Witcher Trials Apothecary Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Accurex",
+    "name": "World Map Beautification Project: Medieval Overhaul",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Erin",
+    "name": "Vanilla Animals Expanded — Royal Animals",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SirVan",
+    "name": "Dark Ages : Crypts and Tombs",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "MrHydralisk",
+    "name": "Vanilla Outposts Expanded: Additional Outposts",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "EdB",
+    "name": "EdB Prepare Carefully",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SirMashedPotato",
+    "name": "Questing Meme",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "MG_Atwood",
+    "name": "[ATW] House Decor",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "BotchJob",
+    "name": "Ancient Armory",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Error277",
+    "name": "Bows Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sharpie",
+    "name": "Elden Rim: Armory",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Nunahur Al-Shamikh",
+    "name": "Entosomnia - Medieval Cryptosleep",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AobaKuma",
+    "name": "Fortifications - Neolithic",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "BotchJob",
+    "name": "Medieval Fantasy Themed Quest Rewards",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Nunahur Al-Shamikh",
+    "name": "Medieval Lighting and Heat",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Madman666",
+    "name": "Medieval Madness: Tools of the Trade",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Nunahur Al-Shamikh",
+    "name": "Medieval Prosthetics",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Arisher",
+    "name": "Medievel Bowyer",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Haplo",
+    "name": "Misc. Training",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Captain_Tess",
+    "name": "Early Vehicle Parts",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zaljerem",
+    "name": "Fishing Boats (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "WalterHawkwood",
+    "name": "Floors Are (Almost) Worthless",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rudinov",
+    "name": "Simple Ships",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AobaKuma",
+    "name": "Fortifications - Medieval",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AobaKuma",
+    "name": "Fortifications - Medieval - Material",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sierra",
+    "name": "RimFantasy - House Doyle",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "hodlhodl",
+    "name": "ToolkitCore",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zaljerem",
+    "name": "Boats (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sneaks",
+    "name": "Meat Blend",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "BotchJob",
+    "name": "Medieval Fantasy Themed Relic Quests",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mewn Goddess",
+    "name": "Medieval Overhaul Extra Signs",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Viral Reaction",
+    "name": "Medieval Overhaul Patches",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ogam",
+    "name": "Medieval Overhaul: Arcane Archaeologists",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Captain_Tess",
+    "name": "Simply Wheel Barrow (Vehicle)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SarahLambar",
+    "name": "Vanilla Outpost Expanded Medieval Overhaul Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sneaks",
+    "name": "Veggie Mix",
+    "steamId": null,
+    "version": null
+  }
+]
